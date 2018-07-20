@@ -1,0 +1,28 @@
+{
+  "name": "gonode-modulo-0-desafio-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrettich/gonode-modulo-0-desafio-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrettich/gonode-modulo-0-desafio-1/issues"
+  },
+  "homepage": "https://github.com/wrettich/gonode-modulo-0-desafio-1#readme",
+  "devDependencies": {
+    "eslint": "^5.1.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "moment": "^2.22.2",
+    "nunjucks": "^3.1.3"
+  }
+}
